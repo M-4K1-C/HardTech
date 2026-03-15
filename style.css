@@ -359,12 +359,10 @@ footer {
 
 .serv h1 {
     font-size: 35px;
-    font-weight: lighter;
 }
 
 .serv p {
     font-size: 19px;
-    font-weight: lighter;
 }
 
 .serv-servicos {
@@ -387,7 +385,7 @@ footer {
 }
 
 .serv-card p {
-    font-size: 18px;
+    font-size: 19px;
 }
 
 /* planos */
